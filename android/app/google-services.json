@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "922264508146",
+    "project_id": "newsnow-72d5a",
+    "storage_bucket": "newsnow-72d5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922264508146:android:2c1407a177360acdc8226b",
+        "android_client_info": {
+          "package_name": "com.mycompany.newsnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922264508146-al6bh7dt5ddu1u0hvrh5e4qdoo08akij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.newsnow",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "922264508146-0sgfntvm0idtou8kgbvl4aufpgp13tdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTiNV3qBz3VYsyJoYYferdjR3t3XKIOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922264508146-0sgfntvm0idtou8kgbvl4aufpgp13tdk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922264508146-mgbs6pnjbb7o431r1niake0h1v7kipba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.newsnow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
